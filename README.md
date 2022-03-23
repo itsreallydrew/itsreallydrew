@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a Frontend Developer who enjoys building websites, but also dabbles in backend technology. 
+
+- 👷🏾‍♂️ I'm currently working on CryptoHunkz -- a collection of 7,777 NFTs on the Ethereum blockchain.
+- 🌱 I’m currently learning Solidity and improving my Frontend skills. 
+- I appreciate the creative side of development and love the variety of resources and information available to allow me to grow as a developer.
+
 <!--
 **itsreallydrew/itsreallydrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
